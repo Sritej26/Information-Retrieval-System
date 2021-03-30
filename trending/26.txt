@@ -1,0 +1,15 @@
+Trending/Popular Post Slider and Widget Description WP Trending Post Slider and Widget allows you to displays the most popular posts/trending posts on your blog by posts views or posts comments. Display your popular post in a page by shortcode or in a sidebar by widget with desired time range. Reviews I've given this plugin 3 stars, purely for the layout of the gridbox and/or carousel, which are truly magnificent.
+This plugin will never stand up to the WPPopular Post or Top10 plugins though, as it simply does not show trending posts, which is rather misleading for someone looking at the plugin title.
+In theory though, it SHOULD work - it has settings for 'Last Day', 'Last Week', 'Last Month', and 'All Time'.
+That's the theory though - in practice, this plugin only takes posts/pages that were PUBLISHED within the above parameters, making the trending part utterly pointless, unless you wanted to use the ALL TIME setting, which for a website that's been going for years, offers no value at all in keeping the plugin active.
+It's quite obvious what needds to be done with this plugin, and that's to add a new 'range' parameter in the shortcodes, so that ALL TIME could be used in the main settings, and then the 'range' parameter applied for the last day, last week, or last month, so that the plugin could indeed be termed as a trending one, which is what the above two plugins do.
+For a popular posts plugin, with an unbeatable layout, choose this one.
+For a trending posts plugin, look elsewhere. I am using free version of this plugin there is issue in my wordpress theme i think to contact with support. i thought if support said we help in only premium version then ? but i contact support they help me and fix my theme issue. i am really happy thanks thanks alot. UPDATE: I purchased the pro version for the extra features and it is a much better product for my needs. I have been running it for a while now without any issues.
+The ability to show the number of views now exists (as of 6-22-20), at least in the pro version which solved one of my main issues.
+Original:
+I like the plugin, and I think it is a great choice for a new site or for a site that does not display post/page view counts. It seems to be lighter and faster than WordPress Popular Posts.
+Previous post/page view counts, however, were not imported at install, and there is no way to perform this task. Granted, I changed from WPP so that may have been a contributing factor.
+Additionally, the plugin does not offer an option to display the number of post/page views.
+These may not be an issue for some people, but for others it may be. If you can deal with these limitations, this is a great plugin. I give it 4.5 Stars I like this plugin very much. Totally effective and nice without troubles installing it.
+I know you have a "Recent Posts" plugin in stock, but I would love to have a similar "Related Posts" plugin from you guys (and girls?) to have the same layout here! That would be marvelous!
+Thanks for your good work! 
